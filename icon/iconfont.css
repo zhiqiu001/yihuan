@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('iconfont.woff2?t=1723605894767') format('woff2'),
+    url('iconfont.woff?t=1723605894767') format('woff'),
+    url('iconfont.ttf?t=1723605894767') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-taptap:before {
+    content: "\e60c";
+}
+
+.icon-querenbantubiao_Bzhan:before {
+    content: "\e65c";
+}
+
+.icon-douyin1:before {
+    content: "\e74e";
+}
+
+.icon-weibo:before {
+    content: "\e635";
+}
+
+.icon-weixin11:before {
+    content: "\e621";
+}
+
+.icon-QQ:before {
+    content: "\e876";
+}
+
+.icon-youjian:before {
+    content: "\e64b";
+}
+
+.icon-dianhua:before {
+    content: "\e631";
+}
+
+.icon-erweima:before {
+    content: "\e7ad";
+}
+
+.icon-ditu:before {
+    content: "\e66c";
+}
+
+.icon-luxian:before {
+    content: "\e60a";
+}
+
+.icon-shijian:before {
+    content: "\e64f";
+}
+
+.icon-nvshen01:before {
+    content: "\e95d";
+}
+
+.icon-yuehui:before {
+    content: "\e77a";
+}
+
+.icon-you:before {
+    content: "\e63a";
+}
+
+.icon-zuojiantou-:before {
+    content: "\e632";
+}
+
+.icon-youjiantou:before {
+    content: "\ee39";
+}
